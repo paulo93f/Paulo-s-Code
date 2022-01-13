@@ -6,7 +6,9 @@ import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
   <div>
-    Hero
+    <p>Paulo's Code is under development. </p>    
+    <br></br>
+    <p>Please, be patient.</p>
   </div>
 );
 
