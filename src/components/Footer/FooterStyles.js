@@ -101,6 +101,26 @@ export const Slogan = styled.p`
 	}
 `
 
+export const SubSlogan = styled.p`
+	color: rgba(255, 255, 255, 0.5);
+	min-width: 280px;
+	letter-spacing: 0.02em;
+	font-size: 16px;
+	line-height: 26px;
+	padding: 1rem;
+
+	@media ${props => props.theme.breakpoints.md}{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	@media ${props => props.theme.breakpoints.sm}{
+		line-height: 18px;
+		font-size: 12px;
+		min-width: 100px;
+	}
+`
+
 export const SocialContainer = styled.div`
 	display: flex;
   align-items: center;
