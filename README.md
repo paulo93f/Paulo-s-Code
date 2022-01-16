@@ -2,9 +2,8 @@
 
 First Project: React & NextJS
 
-![Portfolio Website](https://ibb.co/gt1FWWY)
+![This is an image](https://i.ibb.co/F8vqYYp/1.png)
 
 
 Based on this youtuber's template! 
-
-![Portfolio Video](https://www.youtube.com/watch?v=OPaLnMw2i_0)
+[![Watch the video](https://img.youtube.com/vi/OPaLnMw2i_0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OPaLnMw2i_0)
