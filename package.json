@@ -5,7 +5,8 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build && next export",
-        "start": "next start"
+        "start": "next start",
+        "standard": "standard --fix"
     },
     "dependencies": {
         "next": "10.2.3",
@@ -15,5 +16,11 @@
         "react-icons": "4.2.0",
         "styled-components": "5.3.0",
         "styled-normalize": "8.0.7"
+    },
+    "devDependencies": {
+        "standard": "16.0.4"
+    },
+    "eslintConfig": {
+        "extends": "./node_modules/standard/eslintrc.json"
     }
 }
