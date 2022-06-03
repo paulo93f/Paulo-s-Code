@@ -44,7 +44,7 @@ const Technologies = () => (
             Experience with <br />
             NextJS
             <br />
-            Laravel
+            Laravel / Lumen
             <br />
             Symfony
           </ListParagraph>

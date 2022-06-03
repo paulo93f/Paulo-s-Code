@@ -36,6 +36,6 @@ export const TimeLineData = [
   },
   {
     year: '2016 - Present',
-    text: 'Netkia | High experience in webservers communications (REST & SOAP APIS). Management and development of logistics portals for mobile companies such as Masmovil & Yoigo, as well as multiple distributors such as Interbox, Medbuying, CWS, Schneider, Yourphone, DiiD.'
+    text: 'Netkia | High experience in REST & SOAP aplications. Management and development of logistics portals for mobile companies such as Masmovil & Yoigo.'
   }
 ]
