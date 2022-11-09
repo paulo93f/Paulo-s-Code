@@ -32,10 +32,15 @@ export const TimeLineData = [
   },
   {
     year: 2016,
-    text: 'Intensywni | Started my journey as junior web developer as internship in Poland during Erasmus. Learned Wordpress and Javascript.'
+    text: 'Intensywni (Poland)'
   },
   {
-    year: '2016 - Present',
-    text: 'Netkia | High experience in REST & SOAP aplications. Management and development of logistics portals for mobile companies such as Masmovil & Yoigo.'
+    year: '2016 - 2022',
+    text: 'Netkia'
+  },
+  {
+    year: '2022 - Present',
+    text: 'Tecalis'
   }
+  
 ]
